@@ -18,5 +18,5 @@ test('simple login test', async ({ page }) => {
   console.log('✓ Clicked login');
   
   await page.waitForTimeout(3000);
-  console.log('✓ Test completed');
+  console.log('✓ Test completed ');
 });
